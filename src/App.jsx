@@ -13,9 +13,9 @@ function App() {
       {/* <h1>Rive Animation Integration</h1> */}
       <div
         style={{
-          width: "100%",
-          height: "100vh",
-          maxWidth: "400px",
+          width: "90%",
+          height: "80vh",
+          maxWidth: "300px",
           aspectRatio: "1",
           margin: "0 auto",
         }}
